@@ -1,0 +1,9 @@
+随机游走路径:
+and new life and
+
+遍历的边:
+and -> new
+new -> life
+life -> and
+
+总边数: 3
